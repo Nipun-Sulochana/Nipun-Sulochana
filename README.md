@@ -1,7 +1,7 @@
 <h2 align="center">  I'm Nipun Sulochana</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunsulochana&label=Profile%20views&color=0e75b6&style=flat" alt="nipunsulochana" /> </p>
 
-🌱 I’m currently learning Averything
+🌱 I’m currently learning Everything
 
 
 
