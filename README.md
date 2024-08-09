@@ -9,15 +9,14 @@ int main() {
     char education[] = "University of Colombo School of Computing";
     char fun_fact[] = "My friends call me Sulo";
     char hobbies[][20] = {"Music", "Gaming"};
-    char aspirations[][50] = {"Become a Fullstack Developer", 
-                              "Innovative thinking and a forward-looking mindset to face the future."};
-
+    char aspiration[] = {"Innovative thinking and a forward-looking mindset to face the future."};
+                              
 
     printf("Name: %s\n", name);
     printf("Education: %s\n", education);
     printf("Fun Fact: %s\n", fun_fact);
     printf("Hobbies: %s, %s\n", hobbies[0], hobbies[1]);
-    printf("Aspirations:\n%s\n%s\n", aspirations[0], aspirations[1]);
+    printf("Aspirations:\n%s\n%s\n", aspirations);
 
     return 0;
 }
@@ -26,7 +25,7 @@ int main() {
  ```
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=21&duration=4000&color=f0955c&background=EB00FF00&center=true&vCenter=true&width=600&lines=Hi+😇..🤟..;Welcome+To+My+Git+Hub+Account;Hope+You+Read+The+Code;So+You+Know+Me+Right🙃;Anyway..+;I'm;Fullstack+Developer;UI%2FUX++Designer;Photographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=21&duration=4000&color=f0955c&background=EB00FF00&center=true&vCenter=true&width=600&lines=Hi+😇..🤟..;Welcome+To+My+Git+Hub+Account;Hope+You+Read+The+Code;So+You+Know+Me+Right🙃;Anyway..+;I'll+tell+you+something+that's+not+in+the+code;I'm;Fullstack+Developer;UI%2FUX++Designer;Photographer)](https://git.io/typing-svg)
 
 </div>
 
