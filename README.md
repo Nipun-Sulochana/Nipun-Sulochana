@@ -1,5 +1,11 @@
 ![Github Banner](https://github.com/Nipun-Sulochana/Nipun-Sulochana/blob/main/assets/Banner.png)
 
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=21&duration=4000&color=f0955c&background=EB00FF00&center=true&vCenter=true&width=600&lines=Hi+😇..🤟..;Welcome+To+My+Git+Hub+Account;I+Hope+You'll+Read+The+Code+Later+on++; So+You+Can+Learn+Few+Things+About+Me🙃;Anyway..🤗+;I'll+Tell+You+Something+That's+Not+In+The+Code;I'm;Fullstack+Developer;UI%2FUX++Designer;Photographer)](https://git.io/typing-svg)
+
+</div>
+
 ```c
 #include <stdio.h>
 
@@ -23,13 +29,6 @@ int main() {
 
 	
  ```
-<div align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=21&duration=4000&color=f0955c&background=EB00FF00&center=true&vCenter=true&width=600&lines=Hi+😇..🤟..;Welcome+To+My+Git+Hub+Account;Hope+You+Read+The+Code;So+You+Know+Me+Right🙃;Anyway..+;I'll+tell+you+something+that's+not+in+the+code;I'm;Fullstack+Developer;UI%2FUX++Designer;Photographer)](https://git.io/typing-svg)
-
-</div>
-
-
 
 ## Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunsulochana&label=Profile%20views&color=0e75b6&style=flat" alt="nipunsulochana" /> </p>
