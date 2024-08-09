@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Nipun Sulochana</h1>
-## Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
+# C Code Example
+
+Here's a simple C program that prints user information:
+
+```c
+#include <stdio.h>
+
+int main() {
+
+    char name[] = "Nipun Sulochana";
+    char education[] = "University of Colombo School of Computing";
+    char fun_fact[] = "My friends call me Sulo";
+    char hobbies[][20] = {"Music", "Gaming"};
+    char aspirations[][50] = {"Become a Fullstack Developer", 
+                              "Innovative thinking and a forward-looking mindset to face the future."};
+
+    printf("Name: %s\n", name);
+    printf("Education: %s\n", education);
+    printf("Fun Fact: %s\n", fun_fact);
+    printf("Hobbies: %s, %s\n", hobbies[0], hobbies[1]);
+    printf("Aspirations:\n%s\n%s\n", aspirations[0], aspirations[1]);
+
+    return 0;
+}
+
 
 
 
