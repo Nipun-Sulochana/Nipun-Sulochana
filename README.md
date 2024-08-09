@@ -26,7 +26,7 @@ int main() {
  ```
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=18&duration=4000&color=f0955c&background=EB00FF00&center=true&vCenter=true&width=550&lines=Welcome+To+My+Git+Hub+Account;Software+Designer;Developer;UI%2FUX++Designer;Photographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=21&duration=4000&color=f0955c&background=EB00FF00&center=true&vCenter=true&width=550&lines=Welcome+To+My+Git+Hub+Account;Fullstack+Developer;UI%2FUX++Designer;Photographer)](https://git.io/typing-svg)
 
 </div>
 
