@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nipun Sulochana</h1>
-<h3 align="center">Fullstack Developer Aspiration</h3>
+## Who am I?
+
+#include <stdio.h>
+
+int main() {
+    // Define variables for user information
+    char name[] = "Nipun Sulochana";
+    char education[] = "University of Colombo School of Computing";
+    char fun_fact[] = "My friends call me Sulo";
+    char hobbies[][20] = {"Music", "Gaming"};
+    char aspirations[][50] = {"Become a Fullstack Developer", 
+                              "Innovative thinking and a forward-looking mindset to face the future."};
+
+    // Print the information
+    printf("Name: %s\n", name);
+    printf("Education: %s\n", education);
+    printf("Fun Fact: %s\n", fun_fact);
+    printf("Hobbies: %s, %s\n", hobbies[0], hobbies[1]);
+    printf("Aspirations: %s\n, %s\n", aspirations[0], aspirations[1]);
+
+    return 0;
+}
+
+	
+ ```
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunsulochana&label=Profile%20views&color=0e75b6&style=flat" alt="nipunsulochana" /> </p>
 
