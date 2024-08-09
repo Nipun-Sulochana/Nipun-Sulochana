@@ -1,12 +1,8 @@
-# C Code Example
-
-Here's a simple C program that prints user information:
-
 ```c
 #include <stdio.h>
 
 int main() {
-    // Define variables for user information
+
     char name[] = "Nipun Sulochana";
     char education[] = "University of Colombo School of Computing";
     char fun_fact[] = "My friends call me Sulo";
@@ -14,7 +10,7 @@ int main() {
     char aspirations[][50] = {"Become a Fullstack Developer", 
                               "Innovative thinking and a forward-looking mindset to face the future."};
 
-    // Print the information
+
     printf("Name: %s\n", name);
     printf("Education: %s\n", education);
     printf("Fun Fact: %s\n", fun_fact);
