@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/nipunsulochana/nipunsulochana/blob/main/Banner.png)
+![Github Banner](https://github.com/nipunsulochana/nipunsulochana/blob/main/assets/Banner.png)
 
 ```c
 #include <stdio.h>
