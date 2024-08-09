@@ -6,6 +6,13 @@
 
 </div>
 
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=21&duration=4000&color=f0955c&background=EB00FF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%98%87..%F0%9F%A4%9F..;Welcome+To+My+Git+Hub+Account;I+Hope+You%27ll+Read+The+Code+Later+on%2B%2B;+So+You+Can+Learn+Few+Things+About+Me%F0%9F%99%83;Anyway..%F0%9F%A4%97+;I%27ll+Tell+You+Something+That%27s+Not+In+The+Code;I%27m;Fullstack+Developer;UI%2FUX+Designer;Photographer)](https://git.io/typing-svg)
+
+</div>
+
+
 ```c
 #include <stdio.h>
 
