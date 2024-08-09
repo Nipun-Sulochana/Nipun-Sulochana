@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/nipunsulochana/nipunsulochana/blob/main/Banner.png)
+
 ```c
 #include <stdio.h>
 
