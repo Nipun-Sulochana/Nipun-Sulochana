@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipun Sulochana</h1>
 
-# C Code Example
-
-Here's a simple C program that prints user information:
+## Who am I?
 
 ```c
 #include <stdio.h>
@@ -27,7 +25,7 @@ int main() {
 
 
 
-
+## Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunsulochana&label=Profile%20views&color=0e75b6&style=flat" alt="nipunsulochana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunsulochana" alt="nipunsulochana" /></a> </p>
