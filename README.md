@@ -30,7 +30,7 @@ int main() {
 
 	
  ```
-<h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
+<h3 align="center"> </h3>
 <div align="center">
 	
 ![Visitor Count](https://profile-counter.glitch.me/{Nipun-Sulochana}/count.svg)
