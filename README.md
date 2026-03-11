@@ -10,14 +10,12 @@
 #include <stdio.h>
 
 int main() {
-
     char name[] = "Nipun Sulochana";
     char education[] = "University of Colombo School of Computing";
     char fun_fact[] = "My friends call me Sulo";
     char hobbies[][20] = {"Music", "Gaming"};
     char aspiration[] = "Innovative thinking and a forward-looking mindset to face the future.";
                               
-
     printf("Name: %s\n", name);
     printf("Education: %s\n", education);
     printf("Fun Fact: %s\n", fun_fact);
