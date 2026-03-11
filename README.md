@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Nipun-Sulochana/Nipun-Sulochana/blob/main/assets/Banner.png)
+![Github Banner](https://github.com/Nipun-Sulochana/Nipun-Sulochana/blob/main/assets/Banner.png?raw=true)
 
 <div align="center"> 
 
