@@ -18,7 +18,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://n8n.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" alt="n8n Logo" width="48" />
+    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n Logo" width="50" />
   </a>
 </div>
 
